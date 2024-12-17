@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "nombre": "Competencia de Atletismo",
+      "estado": "En curso"
+    },
+    {
+      "id": 2,
+      "nombre": "Torneo de Fútbol",
+      "estado": "Programada"
+    },
+    {
+      "id": 3,
+      "nombre": "Campeonato de Natación",
+      "estado": "Finalizada"
+    },
+    {
+      "id": 4,
+      "nombre": "Maratón Anual",
+      "estado": "En curso"
+    },
+    {
+      "id": 5,
+      "nombre": "Torneo de Tenis",
+      "estado": "Programada"
+    }
+  ]
+  

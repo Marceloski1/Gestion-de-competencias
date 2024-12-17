@@ -1,0 +1,26 @@
+rfc: Crea un componente de React funcional básico, similar al ejemplo que proporcionaste.
+rfce: Crea un componente de React funcional con exportación por defecto.
+rcc: Crea un componente de React de clase básico.
+rcjc: Crea un componente de React con uso de JSX y exportación por defecto.
+
+
+Aquí tienes algunos ejemplos de archivos JavaScript (JS) y CSS que podrías almacenar en la carpeta assets de un proyecto:
+
+Ejemplos de Archivos JS
+Bibliotecas de Terceros:
+
+jquery.min.js
+
+bootstrap.bundle.min.js
+
+Plugins:
+
+slick.min.js (para carruseles de imágenes)
+
+chart.min.js (para gráficos)
+
+Scripts Personalizados:
+
+custom.js (scripts específicos del proyecto)
+
+validation.js (scripts para la validación de formularios)

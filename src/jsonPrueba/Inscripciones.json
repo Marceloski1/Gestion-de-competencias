@@ -1,0 +1,38 @@
+[
+    {
+      "idAtleta": 1,
+      "idCompetencia": 1,
+      "fechaInicio": "2024-01-10",
+      "fechaFinal": "2024-01-20",
+      "resultado": "Ganado"
+    },
+    {
+      "idAtleta": 2,
+      "idCompetencia": 2,
+      "fechaInicio": "2024-02-15",
+      "fechaFinal": "2024-02-25",
+      "resultado": "Perdido"
+    },
+    {
+      "idAtleta": 3,
+      "idCompetencia": 3,
+      "fechaInicio": "2024-03-01",
+      "fechaFinal": "2024-03-10",
+      "resultado": "Empate"
+    },
+    {
+      "idAtleta": 4,
+      "idCompetencia": 4,
+      "fechaInicio": "2024-04-05",
+      "fechaFinal": "2024-04-15",
+      "resultado": "Ganado"
+    },
+    {
+      "idAtleta": 5,
+      "idCompetencia": 5,
+      "fechaInicio": "2024-05-20",
+      "fechaFinal": "2024-05-30",
+      "resultado": "Perdido"
+    }
+  ]
+  

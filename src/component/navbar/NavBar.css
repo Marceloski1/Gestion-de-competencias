@@ -1,0 +1,14 @@
+.nav{
+    font-size: 2rem;
+    position: fixed;  
+    top: 0;
+    width: 100vw;
+    background: rgb(132, 133, 133);
+    z-index: 1000; 
+    border-bottom-left-radius: 20px ;
+    border-bottom-right-radius: 20px;
+}
+
+h2{
+    color: rgb(27, 38, 69);
+}

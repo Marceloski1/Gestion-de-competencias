@@ -1,0 +1,21 @@
+.app{
+    height: 100vh;
+    
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+#root {
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 0 ;
+    font-size: 2vh;
+    background: linear-gradient(90deg, #dd3ec046, #576676);
+  }
+  

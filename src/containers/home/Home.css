@@ -1,0 +1,19 @@
+.theHome{
+  padding: 2rem;
+}
+
+.triangle {
+  width: 0; 
+  height: 0;
+  border-top: 100px solid transparent; 
+  border-bottom: 100px solid transparent; 
+  border-left: 200px solid #ffcc00;
+  position: absolute;
+  opacity: 0.3;
+}
+
+.o{
+  width: 500px;
+  height: 500px;
+}
+

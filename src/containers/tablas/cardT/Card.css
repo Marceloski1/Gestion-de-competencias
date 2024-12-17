@@ -1,0 +1,38 @@
+.card-hover { 
+    transition: transform 0.2s, box-shadow 0.3s; 
+    width: 25vw;
+    height: 18vh;
+    background: rgb(100, 120, 250);
+    font-size: 1vw;
+    font-size: 2vh
+}
+
+
+
+.card-hover:hover { 
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+}
+
+
+@media (max-width: 450px){
+    .card-hover{
+        width: 60vw;
+       height: 28vh;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 770px){
+    .card-hover{
+        width: 60vw;
+       height: 23vh;
+    }
+}
+
+@media (min-width: 771px) and (max-width: 1150px){
+    .card-hover{
+        width: 60vw;
+       height: 23vh;
+    }
+}
+

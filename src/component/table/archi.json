@@ -1,0 +1,8 @@
+{
+    "headers": ["#", "Nombre", "Edad", "Ciudad"],
+    "rows": [
+      [1, "Juan", 28, "Madrid"],
+      [2, "Ana", 22, "Barcelona"],
+      [3, "Luis", 35, "Valencia"]
+    ]
+  }
